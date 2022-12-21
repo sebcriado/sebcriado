@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m @sebcriado</h1>
-- 🌱 I’m currently learning web developpement at Simplon.co
+- 🌱 I’m currently learning web developpement at <strong>Simplon.co</strong>
 - 💞️ I’m looking to collaborate on web developpement 
 - 📫 How to reach me contact.sebastiencriado@gmail.com
 - 👤 My Linkedin: https://www.linkedin.com/in/sébastien-criado-19427a212/
