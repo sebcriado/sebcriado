@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @sebcriado</h1>
+<h1>👋 Hi, I’m @sebcriado</h1>
 - 🌱 I’m currently learning web developpement at <strong><a href="https://simplon.co/">Simplon.co</a></strong>
 - 💞️ I’m looking to collaborate on web developpement 
 - 📫 How to reach me <strong>contact.sebastiencriado@gmail.com</strong>
