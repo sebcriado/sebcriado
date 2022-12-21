@@ -6,7 +6,8 @@
 - 🖊 My <strong><a href="https://codepen.io/sebcriado">CodePen</a></strong>
 
 Languages and Tools:
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 <!---
 sebcriado/sebcriado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
