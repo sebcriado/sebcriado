@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning web developpement at <strong><a href="https://simplon.co/">Simplon.co</a></strong>
 - 💞️ I’m looking to collaborate on web developpement 
 - 📫 How to reach me contact.sebastiencriado@gmail.com
-- 👤 My <a href="https://www.linkedin.com/in/sébastien-criado-19427a212/" target="_blank">Linkedin</a>
-- 🖊 My <a href="https://codepen.io/sebcriado" target="_blank">CodePen</a>
+- 👤 My <a href="https://www.linkedin.com/in/sébastien-criado-19427a212/">Linkedin</a>
+- 🖊 My <a href="https://codepen.io/sebcriado">CodePen</a>
 
 <!---
 sebcriado/sebcriado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
