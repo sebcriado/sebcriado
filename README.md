@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebcriado
+- <h1>👋 Hi, I’m @sebcriado</h1>
 - 🌱 I’m currently learning web developpement at Simplon.co
 - 💞️ I’m looking to collaborate on web developpement 
 - 📫 How to reach me contact.sebastiencriado@gmail.com
