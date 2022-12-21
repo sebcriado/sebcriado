@@ -10,6 +10,8 @@
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
