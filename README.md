@@ -15,7 +15,6 @@
 <br>
 <h1>Github Stats:</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
