@@ -22,7 +22,7 @@
 <h1>Most used languages</h1>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcriado&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcriado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
