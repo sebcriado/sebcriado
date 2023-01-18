@@ -19,6 +19,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h1>Most used languages</h1>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcriado&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
