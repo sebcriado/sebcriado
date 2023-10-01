@@ -9,7 +9,7 @@
 
 <h1><strong>Languages and Tools:</strong></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,php,sql,js,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony,php,mysql,js,angular,html,css,gitlab,figma)](https://skillicons.dev)
           
         
 <br>
