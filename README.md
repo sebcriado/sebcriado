@@ -7,7 +7,7 @@
 
 <h1><strong>Languages and Tools:</strong></h1>
 
-[![My Skills](https://skillicons.dev/icons?i=symfony,php,mysql,js,angular,html,css,gitlab,docker,figma)](https://skillicons.dev)                  
+[![My Skills](https://skillicons.dev/icons?i=symfony,php,mysql,js,html,css,docker,figma)](https://skillicons.dev)                  
 <br>
 <h1>Github Stats:</h1>
 
