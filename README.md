@@ -14,6 +14,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+[![sebcriado's GitHub | Dependencies](https://stats.quine.sh/sebcriado/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sebcriado)
+
 
 
 
