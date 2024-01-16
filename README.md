@@ -11,10 +11,10 @@
 <br>
 <h1>Github Stats:</h1>
 
-<div style="display: flex; flex-direction: row;">
+[![sebcriado's GitHub | Stats](https://stats.quine.sh/sebcriado/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sebcriado)
 
 [![sebcriado's GitHub | Dependencies](https://stats.quine.sh/sebcriado/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sebcriado)
-</div>
+
 
 
 
