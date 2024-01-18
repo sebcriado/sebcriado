@@ -11,9 +11,7 @@
 <br>
 <h1>Github Stats:</h1>
 
-[![sebcriado's GitHub | Stats](https://stats.quine.sh/sebcriado/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sebcriado)
-
-[![sebcriado's GitHub | Dependencies](https://stats.quine.sh/sebcriado/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sebcriado)
+![Sébastien GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado&show_icons=true&theme=blue-green)
 
 
 
