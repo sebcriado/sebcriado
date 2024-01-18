@@ -10,9 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=symfony,php,mysql,react,js,docker,figma)](https://skillicons.dev)                  
 <br>
 <h1>Github Stats:</h1>
-
-![Sébastien GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado&show_icons=true&theme=blue-green)
-
+  
+![Sébastien GitHub stats](https://github-readme-stats.vercel.app/api?username=sebcriado&show_icons=true&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcriado&layout=compact&theme=blue-green)
 
 
 
